@@ -2,10 +2,12 @@
 
 import unittest
 import pytest
-from src import t
-
+# from src.andrewwritescode import t
+# import src.andrewwritescode.t as t
+from src.andrewwritescode import t
 
 # region functions
+
 
 def test_square():
     assert t.square(5) == 25

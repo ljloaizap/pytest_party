@@ -1,4 +1,4 @@
-from src.LanguageModel import LanguageModel
+from src.UskoKruM2010.LanguageModel import LanguageModel
 
 
 def test_get_languages_not_none():

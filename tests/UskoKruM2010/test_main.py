@@ -1,6 +1,6 @@
 """Module test_main"""
 import pytest
-from src.main import *
+from src.UskoKruM2010.main import *
 
 
 def test_my_sum():
